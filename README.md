@@ -8,9 +8,9 @@
 
 お手持ちのボードのバージョンに対応した説明書をダウンロードください。
 
-[Version 1.0](  )
+[Version 1.0](https://github.com/dwt98/MIF/raw/master/MIDI_IF_Build_Guide_Ver1.0.pdf)
 
-[Version 1.1](  )
+[Version 1.1](https://github.com/dwt98/MIF/raw/master/MIDI_IF_Build_Guide_Ver1.1.pdf)
 
 ## お問い合わせ
 
